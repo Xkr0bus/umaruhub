@@ -1,6 +1,6 @@
 Config = {
-    namescript = "Umaru",--Tên Script
+    namescript = "Umaru",--Name
     logoscript = "11697781406",--ID Logo Script
-    tacgia = "kr0bus"-- Tên Tác Giả
+    tacgia = "kr0bus"-- Author
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
